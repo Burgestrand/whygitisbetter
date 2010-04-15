@@ -1,0 +1,10 @@
+What the fuck?
+==============
+This is a Swedish translation with my personal added tweaks. It is not meant to
+go into the official “whygitisbetterthanx” website, rather it is to be hosted on
+GitHub pages.
+
+I have this idea that every translation ought to be hosted by GitHub pages, where
+every translation have one maintainer. The links will then be updated, and if everything
+goes really well the CSS and JavaScript will be using external files and all the GitHub
+pages can style / behavior updates from the original (english) “whygitisbetterthanx” repository.
